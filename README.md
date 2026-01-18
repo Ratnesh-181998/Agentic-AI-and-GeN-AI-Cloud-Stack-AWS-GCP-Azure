@@ -14,7 +14,7 @@
 [![Cloud Computing](https://img.shields.io/badge/Cloud-AWS%20%26%20GCP-orange?style=for-the-badge&logo=googlecloud)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-### 🛠️ Tech Stack Used (All Tpoics in Deatils & with Live Demo Coming Soon)
+### 🛠️ Tech Stack Used
 
 
 
@@ -74,7 +74,7 @@
 
 ---
 
-## � Table of Contents
+## � Table of Contents(All Tpoics in Deatils & with Live Demo Coming Soon)
 
 - [🛠️ Tech Stack Used](#️-tech-stack-used)
 - [🚀 Overview](#-overview)
