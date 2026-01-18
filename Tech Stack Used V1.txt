@@ -1,0 +1,89 @@
+
+🧰 Tech Stack Used V1 (Agentic AI & GenAI With Cloud AWS + GCP) 
+________________________________________
+🔹 Programming & Core Libraries
+•	Python
+•	NumPy
+•	Pandas
+•	Matplotlib
+________________________________________
+🔹 NLP & Traditional AI
+•	NLTK
+•	SpaCy
+•	TextBlob
+________________________________________
+🔹 Deep Learning & GenAI
+•	TensorFlow
+•	PyTorch
+•	Transformers
+•	GANs
+•	VAEs
+________________________________________
+🔹 LLMs & Models
+•	OpenAI Models
+•	Hugging Face Models
+•	Ollama (Local LLMs)
+•	Groq API (Open-source LLM inference)
+•	LLaMA 3
+•	Google Gemini (1.0, 1.5 Pro)
+________________________________________
+🔹 Agentic AI & Orchestration Frameworks
+•	LangChain
+•	LangChain Expression Language (LCEL)
+•	LangGraph
+•	CrewAI
+•	AutoGen
+•	Phi Data (Agentic AI Framework)
+•	LangFlow
+________________________________________
+🔹 Retrieval-Augmented Generation (RAG)
+•	RAG
+•	Adaptive RAG
+•	Agentic RAG
+•	C-RAG
+•	Self-RAG
+•	Local RAG Pipelines
+________________________________________
+🔹 Embeddings & Vector Databases
+•	OpenAI Embeddings
+•	Hugging Face Embeddings
+•	FAISS
+•	ChromaDB
+•	Vector Databases
+________________________________________
+🔹 Backend, APIs & Serving
+•	LangServe
+•	REST APIs
+•	Streamlit (Chatbots & UI)
+________________________________________
+🔹 Observability & Monitoring
+•	Langfuse
+•	LangWatch
+•	LangSmith
+________________________________________
+☁️ Cloud Platforms & Services
+🔸 AWS
+•	AWS IAM
+•	AWS EC2
+•	AWS S3
+•	AWS App Runner
+•	AWS Bedrock
+•	AWS SageMaker
+•	AWS Lambda
+•	AWS API Gateway
+•	AWS Elastic Container Registry (ECR)
+🔸 Google Cloud (GCP)
+•	Vertex AI
+•	Google AI Studio
+•	Gemini Models
+•	GCP Regions & Zones
+________________________________________
+🧩 Databases & Integrations
+•	SQL Databases
+•	NoSQL Databases
+•	CSV / File-based Data
+•	Third-party APIs
+________________________________________
+🎯 One-Line Tech Stack 
+Python, LangChain, LangGraph, CrewAI, AutoGen, LCEL, RAG, FAISS, ChromaDB, LangFlow, Streamlit, AWS Bedrock, SageMaker, Lambda, API Gateway, GCP Vertex AI, Gemini, LangSmith, Langfuse
+

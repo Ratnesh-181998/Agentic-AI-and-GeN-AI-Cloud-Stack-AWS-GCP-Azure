@@ -1,0 +1,206 @@
+________________________________________
+
+🔷 Combined Overview 
+
+This combined curriculum takes you from Agentic AI fundamentals → advanced multi-agent systems → production deployment → monitoring → cloud (AWS & GCP).
+It is designed to:
+•	Build autonomous AI agents
+•	Enable multi-agent collaboration
+•	Implement RAG & Adaptive RAG
+•	Automate workflows
+•	Deploy at enterprise scale
+•	Monitor & optimize AI systems
+Skill Progression:
+Beginner ➜ Intermediate ➜ Industry-Ready AI Engineer
+________________________________________
+📚 Combined Modules – Module-Wise Summary
+________________________________________
+🟦 Module 1: Introduction to Agentic AI & Agents
+Overview
+•	Core foundation of Agentic AI
+You Learn
+•	What are agents & agentic systems
+•	Agentic AI vs AI Agents vs Generative AI
+•	Single-agent vs multi-agent systems
+•	Use cases of agent-based decision making
+________________________________________
+🟦 Module 2: Data Validation & Agent Foundations
+Overview
+•	Making agents reliable and structured
+You Learn
+•	Pydantic for data validation
+•	JSON schemas, validators
+•	Safe and structured agent inputs/outputs
+•	Monitoring agent data pipelines
+________________________________________
+🟦 Module 3: LangChain – Core LLM Framework
+Overview
+•	Backbone of GenAI applications
+You Learn
+•	Document loaders & ingestion
+•	Text splitting strategies
+•	Embeddings (OpenAI, HuggingFace, Ollama)
+•	Vector databases (FAISS, ChromaDB)
+•	Retriever pipelines
+________________________________________
+🟦 Module 4: LCEL (LangChain Expression Language)
+Overview
+•	Building efficient LLM workflows
+You Learn
+•	LCEL syntax & pipelines
+•	Prompt chains & structured outputs
+•	Open-source models via Groq API
+•	Exposing chains as APIs using LangServe
+________________________________________
+🟦 Module 5: LangServe – Model Deployment
+Overview
+•	Turning LLM logic into production APIs
+You Learn
+•	API-based LLM serving
+•	Endpoint creation & scaling
+•	Integration with frontend & tools
+•	Cloud-friendly deployment patterns
+________________________________________
+🟦 Module 6: LangGraph – Agentic Workflows
+Overview
+•	Graph-based agent orchestration
+You Learn
+•	Graphs, chains, routers
+•	Stateful agents
+•	Agents with memory
+•	Deployment-ready agent graphs
+________________________________________
+🟦 Module 7: State, Memory & Human-in-Loop
+Overview
+•	Making agents interactive & controllable
+You Learn
+•	State schemas & reducers
+•	Memory optimization
+•	Human feedback loops
+•	Breakpoints, streaming & time travel
+________________________________________
+🟦 Module 8: Agentic RAG (Advanced)
+Overview
+•	Smarter retrieval-augmented agents
+You Learn
+•	Adaptive RAG (local & cloud)
+•	Agentic RAG
+•	C-RAG (Controlled RAG)
+•	Self-RAG with VectorDBs
+________________________________________
+🟦 Module 9: Multi-Agent System Design
+Overview
+•	Collaboration between AI agents
+You Learn
+•	Agent roles & responsibilities
+•	Agent-to-agent communication
+•	Coordination protocols
+•	Scalable multi-agent architectures
+________________________________________
+🟦 Module 10: CrewAI – AI Teams
+Overview
+•	Managing AI agent teams
+You Learn
+•	Crew orchestration
+•	Memory & role-playing
+•	Guardrails & cooperation
+•	Tool sharing across agents
+________________________________________
+🟦 Module 11: LangFlow – Low-Code AI Pipelines
+Overview
+•	Visual workflow building
+You Learn
+•	Nodes, chains, prompts
+•	Drag-and-drop LLM apps
+•	LangChain + LangFlow integration
+•	Rapid prototyping
+________________________________________
+🟦 Module 12: Third-Party Tool Integration
+Overview
+•	Extending agent capabilities
+You Learn
+•	SQL, CSV, NoSQL integrations
+•	External APIs (REST, GraphQL)
+•	Vector DB integration
+•	Chatbot automation
+________________________________________
+🟦 Module 13: Observability & Monitoring
+Overview
+•	Tracking AI system health
+You Learn
+•	Langfuse for LLM observability
+•	LangWatch metrics
+•	LangSmith experiments
+•	Cost, latency & error tracking
+•	Opik / ClearML monitoring
+________________________________________
+🟦 Module 14: Agno – Lightweight Agent Framework
+Overview
+•	Fast & minimal agent systems
+You Learn
+•	Agents, tools & knowledge
+•	Chunking & embeddings
+•	Web search agents
+•	Financial agents
+•	RAG agents
+________________________________________
+🟦 Module 15: AutoGen – Autonomous Agent Systems
+Overview
+•	Self-communicating AI agents
+You Learn
+•	Agent goals & environments
+•	Inter-agent communication
+•	Feedback loops
+•	Multi-agent learning & adaptation
+________________________________________
+🟦 Module 16: Workflow Automation (n8n)
+Overview
+•	Real-world automation with agents
+You Learn
+•	AI workflows
+•	WhatsApp / Telegram bots
+•	RAG chatbots
+•	Blog automation
+•	AI summarization & transcription
+________________________________________
+🟦 Module 17: Model Context Protocol (MCP)
+Overview
+•	Standardizing tool & data access for LLMs
+You Learn
+•	MCP architecture
+•	MCP servers & resources
+•	Python SDK usage
+•	Tool & prompt orchestration
+•	Enterprise-grade context handling
+________________________________________
+🟦 Module 18: AWS Cloud for GenAI
+Overview
+•	Production cloud deployment
+You Learn
+•	AWS IAM, EC2, S3
+•	Bedrock foundation models
+•	SageMaker training & inference
+•	Lambda & API Gateway
+•	RAG pipelines on AWS
+________________________________________
+🟦 Module 19: GCP & Vertex AI
+Overview
+•	Google cloud AI ecosystem
+You Learn
+•	Vertex AI setup
+•	Gemini models
+•	Multimodal AI
+•	RAG on GCP
+•	Chatbots using Gemini + Streamlit
+________________________________________
+🟦 Module 20: CI/CD & Production Deployment
+Overview
+•	Enterprise AI delivery
+You Learn
+•	GitHub Actions
+•	Docker & containers
+•	BentoML model serving
+•	AWS ECR, EC2 deployment
+•	End-to-end agentic AI projects
+________________________________________
+

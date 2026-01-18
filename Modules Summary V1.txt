@@ -1,0 +1,219 @@
+________________________________________
+
+Designed for AI enthusiasts and professionals eager to dive into the world of Agentic AI and Natural Language Processing (NLP). You will gain hands-on experience in building intelligent systems, mastering NLP techniques, developing agentic decision-making frameworks, and implementing state-of-the-art GenAI solutions.
+Objectives
+•	Build a solid understanding of Natural Language Processing (NLP) techniques and their applications in AI systems
+•	Implement and optimize NLP models for text classification, sentiment analysis, and named entity recognition using SpaCy and Hugging Face
+•	Explore Generative AI (GenAI) techniques including transformers and language models
+•	Develop agentic systems with multi-agent collaboration and decision-making frameworks
+•	Master Retrieval-Augmented Generation (RAG)
+•	Apply LangChain and LangFlow to build scalable NLP workflows
+•	Build conversational agents using LangGraph and LangFlow
+•	Monitor LLMs using Langfuse and LangWatch
+________________________________________
+Work Information
+•	Python: Variables, data types, control structures, NumPy, Pandas, Matplotlib
+•	NLP: NLTK, SpaCy, TextBlob, preprocessing, tokenization, lemmatization
+•	GenAI: TensorFlow, PyTorch, Transformers, GANs, VAEs
+________________________________________
+Module 1
+Introduction to Agentic AI
+•	What is Agentic AI?
+•	What are Agents?
+•	Agentic AI vs AI Agents
+•	Agentic AI vs Generative AI
+•	Multi-Agent Systems
+•	Agentic AI Frameworks
+________________________________________
+Module 2
+Phi Data: Agentic AI Framework
+•	Agents, Models, Tools, Knowledge
+•	Chunking
+•	Vector Databases
+•	Embeddings
+•	Workflow Design and Execution
+•	Web Search Agents
+•	Financial Agents
+•	RAG Agents
+________________________________________
+Module 3
+LangChain
+•	Document Loaders
+•	Data Ingestion
+•	Text Splitters (Recursive, Character, HTML, JSON)
+•	OpenAI Embeddings
+•	Ollama Embeddings
+•	Hugging Face Embeddings
+•	FAISS
+•	ChromaDB
+________________________________________
+Module 4
+LCEL (LangChain Expression Language)
+•	Open-source models using Groq API
+•	Building LLMs
+•	Prompt Chains
+•	Structured Output Chains
+•	Deploying APIs using LangServe
+________________________________________
+Module 5
+LangServe
+•	Model Serving
+•	API-driven deployment
+•	Custom endpoints
+•	Production-scale deployment
+________________________________________
+Module 6
+LangGraph
+•	Simple Graphs
+•	LangGraph Studio
+•	Chains and Routers
+•	Agents with Memory
+•	State Schemas
+•	Deployment Concepts
+________________________________________
+Module 7
+UX and Human-in-the-Loop
+•	Streaming
+•	Breakpoints
+•	Editing State
+•	Human Feedback
+•	Time Travel
+________________________________________
+Module 8 Agentic RAG
+•	Adaptive RAG
+•	Adaptive RAG with Cohere
+•	Agentic RAG
+•	C-RAG
+•	Self-RAG
+•	Local RAG
+________________________________________
+Module 9 Designing Multi-Agent Systems
+•	Agent Nodes
+•	Communication Protocols
+•	Task & Role Definition
+•	Scalable Multi-Agent Systems
+________________________________________
+Module 10 CrewAI Platform
+•	Agent Collaboration
+•	Workflow Automation
+•	Role Playing
+•	Memory
+•	Tools
+•	Guardrails
+________________________________________
+Module 11 LangFlow
+•	LangFlow Setup
+•	Nodes, Chains, Prompts
+•	UI Workflows
+•	Quick Start Application
+________________________________________
+Module 11 (Cont.)
+•	Prompt Engineering
+•	LangChain Integration
+•	Common LangFlow Nodes
+________________________________________
+Module 12
+Integration with Third-Party Tools
+•	SQL, CSV, NoSQL
+•	Vector Databases
+•	REST APIs
+•	OpenAI & Hugging Face Integration
+•	Chatbot Automation
+________________________________________
+Module 13
+Langfuse
+•	LLM Observability
+•	Cost Tracking
+•	Token Usage
+•	Error Monitoring
+________________________________________
+Module 14
+LangWatch
+•	Metrics Monitoring
+•	Real-time Logs
+•	Framework Integration
+________________________________________
+Module 15
+LangSmith
+•	Workflow Testing
+•	Dataset Management
+•	Experiment Tracking
+________________________________________
+Module 16
+AutoGen
+•	Autonomous Agents
+•	Agent Communication
+•	Feedback Loops
+•	Multi-Agent Collaboration
+________________________________________
+Module 16 (Cont.)
+•	Deployment
+•	Monitoring Agent Performance
+________________________________________
+Module 17
+End-to-End Agentic AI Projects
+•	Real-world Agentic AI Projects
+________________________________________
+Module 18
+AWS Cloud Basics
+•	AWS Account Setup
+•	IAM
+•	Regions & Zones
+•	EC2
+•	ECR
+•	App Runner
+________________________________________
+Module 19
+AWS Bedrock
+•	Foundation Models
+•	Embeddings
+•	Chat Playgrounds
+•	Inference & Pricing
+________________________________________
+Module 20
+AWS SageMaker
+•	Model Training
+•	Endpoints
+•	SageMaker Studio
+________________________________________
+Module 21
+AWS Lambda
+•	Serverless Functions
+•	Permissions Model
+________________________________________
+Module 22
+AWS API Gateway
+•	REST APIs
+•	WebSocket APIs
+________________________________________
+Module 23
+•	Lambda + Bedrock Integration
+•	Text Summarization APIs
+________________________________________
+Module 24
+Fine-Tuning Foundation Models
+•	Architecture
+•	Custom Data
+•	SageMaker Hands-on
+________________________________________
+Module 25
+•	RAG in AWS
+•	Chatbot using LLaMA3, LangChain & Streamlit
+________________________________________
+Module 26
+GCP & Vertex AI
+•	Vertex AI
+•	Google AI Studio
+•	Model Garden
+________________________________________
+Module 27
+Google Gemini
+•	Gemini 1.0 Pro
+•	Gemini 1.5 Pro
+•	Embeddings
+•	Multimodal AI
+________________________________________
+Module 28
+•	RAG in GCP
+•	Chatbot with Gemini Pro, LangChain & Streamlit
+________________________________________

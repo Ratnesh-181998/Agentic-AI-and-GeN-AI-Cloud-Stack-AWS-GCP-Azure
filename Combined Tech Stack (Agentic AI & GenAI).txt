@@ -1,0 +1,202 @@
+🧰 Combined Tech Stack (Agentic AI & GenAI)
+Programming & Core
+•	Python
+•	Pydantic
+•	JSON / YAML
+•	REST APIs
+________________________________________
+LLMs & GenAI Models
+•	OpenAI
+•	Anthropic (Claude)
+•	Google Gemini
+•	Meta LLaMA 3
+•	Hugging Face
+•	Ollama
+•	Groq API
+________________________________________
+Agentic AI Frameworks
+•	LangChain
+•	LangGraph
+•	CrewAI
+•	AutoGen
+•	Agno
+•	LangFlow
+•	Model Context Protocol (MCP)
+________________________________________
+Retrieval-Augmented Generation (RAG)
+•	RAG
+•	Adaptive RAG
+•	Agentic RAG
+•	C-RAG
+•	Self-RAG
+________________________________________
+Embeddings & Vector Databases
+•	OpenAI Embeddings
+•	Hugging Face Embeddings
+•	FAISS
+•	ChromaDB
+________________________________________
+Workflow & Automation
+•	LangChain Expression Language (LCEL)
+•	n8n
+•	Event-driven workflows
+________________________________________
+Backend & Serving
+•	FastAPI
+•	LangServe
+•	BentoML
+•	Streamlit
+•	Gradio
+________________________________________
+Observability & Monitoring
+•	LangSmith
+•	Langfuse
+•	LangWatch
+•	Opik
+•	ClearML
+•	Logfire
+________________________________________
+DevOps & CI/CD
+•	GitHub Actions
+•	Docker
+•	Containerization
+________________________________________
+Cloud Platforms
+AWS
+•	EC2, S3, IAM
+•	Bedrock
+•	SageMaker
+•	Lambda
+•	API Gateway
+•	ECR
+GCP
+•	Vertex AI
+•	Google AI Studio
+•	Gemini Models
+________________________________________
+Databases & Integrations
+•	SQL / NoSQL
+•	Vector Databases
+•	External APIs
+________________________________________
+Automation & Messaging
+•	WhatsApp Bots
+•	Telegram Bots
+________________________________________
+Frontend / UX
+•	Chat Interfaces/Streamlit 
+•	Human-in-the-Loop Systems
+________________________________________
+✅ One-Line Tech Stack
+Python | LangChain | LangGraph | CrewAI | AutoGen | RAG | FAISS | ChromaDB | LangFlow | n8n | FastAPI | Docker | GitHub Actions | AWS Bedrock | SageMaker | GCP Vertex AI | Gemini | LangSmith | Langfuse
+
+🧰 Combined Tech Stack 
+
+🔹 1. Programming & Core Foundations
+•	Python
+•	Pydantic (data validation, schemas)
+•	JSON / YAML
+•	REST APIs
+•	GraphQL (basic integration)
+________________________________________
+🔹 2. LLMs & Generative AI
+•	OpenAI Models
+•	Anthropic (Claude)
+•	Google Gemini (1.0, 1.5 Pro)
+•	Meta LLaMA 3
+•	Groq API (Open-source LLM inference)
+•	Hugging Face Models
+•	Ollama (Local LLMs)
+________________________________________
+🔹 3. Agentic AI & Multi-Agent Frameworks
+•	LangChain
+•	LangGraph
+•	CrewAI
+•	AutoGen
+•	Agno(PhiaData)
+•	LangFlow
+•	Model Context Protocol (MCP)
+________________________________________
+🔹 4. Retrieval-Augmented Generation (RAG)
+•	Standard RAG
+•	Adaptive RAG
+•	Agentic RAG
+•	C-RAG (Controlled RAG)
+•	Self-RAG
+•	Local RAG Pipelines
+________________________________________
+🔹 5. Embeddings & Vector Databases
+•	OpenAI Embeddings
+•	Hugging Face Embeddings
+•	Bedrock Embeddings
+•	FAISS
+•	ChromaDB
+•	VectorDBs (Generic abstraction)
+________________________________________
+🔹 6. Workflow Orchestration & Automation
+•	LangChain Expression Language (LCEL)
+•	n8n (Workflow Automation)
+•	LangFlow Visual Pipelines
+•	Agent Workflows
+•	Event-Driven Automation
+________________________________________
+🔹 7. Observability, Monitoring & Evaluation
+•	LangSmith
+•	Langfuse
+•	LangWatch
+•	Opik
+•	ClearML
+•	Logfire (Pydantic monitoring)
+________________________________________
+🔹 8. API, Backend & Serving
+•	FastAPI
+•	LangServe
+•	BentoML
+•	Streamlit (Frontend / Demo apps)
+•	Gradio
+________________________________________
+🔹 9. CI/CD & DevOps
+•	GitHub Actions
+•	Docker
+•	Containerization
+•	CI/CD Pipelines
+•	Versioned Model Deployment
+________________________________________
+🔹 10. Cloud Platforms & Services
+☁️ AWS
+•	AWS EC2
+•	AWS S3
+•	AWS IAM
+•	AWS Bedrock
+•	AWS SageMaker
+•	AWS Lambda
+•	AWS API Gateway
+•	AWS ECR
+•	AWS App Runner
+☁️ Google Cloud (GCP)
+•	Vertex AI
+•	Google AI Studio
+•	Gemini Models
+•	GCP Regions & Zones
+________________________________________
+🔹 11. Databases & Data Sources
+•	SQL Databases
+•	NoSQL Databases
+•	CSV / File-based Data
+•	APIs (External Data Sources)
+________________________________________
+🔹 12. Messaging & Integrations
+•	WhatsApp Bots
+•	Telegram Bots
+•	Web Search APIs
+•	Calendars & Notifications
+•	Financial Data APIs
+________________________________________
+🔹 13. Frontend & User Interaction
+•	Streamlit Dashboards
+•	Chat Interfaces
+•	Human-in-the-Loop UI
+•	Agent Playground UIs
+________________________________________
+🧠 Tech Stack Summary (One-Line)
+Python-based Agentic AI stack using LangChain, LangGraph, CrewAI, AutoGen, RAG, FAISS/ChromaDB, LangFlow, n8n, FastAPI, Docker, GitHub Actions, AWS (Bedrock, SageMaker, Lambda), GCP (Vertex AI, Gemini), with production monitoring via LangSmith, Langfuse, Opik & ClearML.

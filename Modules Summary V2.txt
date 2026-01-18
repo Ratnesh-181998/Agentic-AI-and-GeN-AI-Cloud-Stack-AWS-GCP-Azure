@@ -1,0 +1,196 @@
+
+________________________________________
+
+Designed for AI developers, machine learning engineers, data scientists, and software engineers looking to build expertise in agentic AI, multi-agent systems, and AI-powered automation.
+By the end of the course, you will gain hands-on experience in:
+•	Agentic AI frameworks
+•	Multi-agent collaboration
+•	Real-world automation
+•	End-to-end AI deployment
+Objectives
+•	Build intelligent agents using LangChain, LangGraph, CrewAI, Agno, AutoGen, LangFlow
+•	Design and deploy multi-agent systems
+•	Implement RAG and Adaptive RAG
+•	Automate workflows using n8n and LangFlow
+•	Deploy AI agents using GitHub Actions, Docker, AWS, BentoML
+•	Monitor agents using LangSmith, Opik, ClearML
+•	Build chatbots, financial agents, and automation systems
+________________________________________
+Work Information
+•	Recommended knowledge: Python, NLP, GenAI
+________________________________________
+Tools
+LangFlow, Agno, CrewAI, Opik, n8n, Streamlit, AutoGenAI, Gradio, FastAPI, Docker, AWS ECR, Amazon EC2, BentoML, Anthropic, Grok, Gemini
+________________________________________
+Module 1
+Introduction to Agents
+•	What are Agents?
+•	Agentic AI vs AI Agents
+•	Agentic AI vs Generative AI
+•	Multi-Agent Systems
+•	Agentic AI Frameworks
+________________________________________
+Module 2
+Pydantic – Data Validation
+•	Installing Pydantic
+•	Models and Fields
+•	JSON, Types, Validators
+•	Dataclasses
+•	Validation Decorators
+•	Monitoring with Logfire
+________________________________________
+Module 3
+LangChain
+•	Core Components
+•	Document Loaders
+•	Text Splitting Techniques
+•	OpenAI Embeddings
+•	Ollama Embeddings
+•	Hugging Face Embeddings
+•	FAISS
+•	ChromaDB
+________________________________________
+Module 4
+LCEL (LangChain Expression Language)
+•	Open-source models using Groq API
+•	LLM Chains
+•	Prompt Chains
+•	Structured Output Chains
+•	Deploying APIs using LangServe
+________________________________________
+Module 5
+LangGraph Introduction
+•	Simple Graphs
+•	LangGraph Studio
+•	Chains and Routers
+•	Agents with Memory
+•	Deployment Basics
+________________________________________
+Module 6
+State & Memory in LangGraph
+•	State Schemas
+•	Multiple Schemas
+•	State Reducers
+•	Trim and Filter Messages
+________________________________________
+Module 7
+UX and Human-in-the-Loop
+•	Streaming
+•	Breakpoints
+•	Editing State
+•	Human Feedback
+•	Time Travel
+________________________________________
+Module 8
+LangGraph Deployments
+•	Deployment Concepts
+•	Creating Deployments
+•	Connecting to Deployments
+________________________________________
+Page 14 – Module 9
+Lightweight Agent Framework
+•	Agents, Teams, Models, Tools
+•	Chunking
+•	Vector Databases
+•	Embeddings
+•	Workflows
+•	Agent Observability
+•	Web Search Agents
+•	Financial Agents
+•	RAG Agents
+________________________________________
+Module 10
+Agentic RAG
+•	Adaptive RAG
+•	Adaptive RAG with Cohere
+•	Agentic RAG
+•	C-RAG
+•	Self-RAG
+•	Local RAG
+________________________________________
+Module 11
+LangSmith
+•	Overview and Setup
+•	Workflow Pipelines
+•	Data Integration
+•	Preprocessing and Cleaning
+________________________________________
+Module 12
+Designing Multi-Agent Systems
+•	Agent Nodes
+•	Roles and Tasks
+•	Agent Communication Protocols
+•	Scalable Multi-Agent Systems
+•	Real-World Use Cases
+________________________________________
+Module 13
+CrewAI
+•	Crew Collaboration Framework
+•	AI-Agent Communication
+•	Workflow Automation
+•	Memory and Role-playing
+•	Guardrails
+•	Monitoring with Opik
+________________________________________
+Module 14
+LangFlow – Low Code Tool
+•	LangFlow Overview
+•	UI Navigation
+•	Nodes, Chains, Prompts
+•	First LangFlow Application
+________________________________________
+Module 15
+Building Blocks of LangFlow
+•	Nodes and Chains
+•	LLM Integration
+•	Pre-built vs Custom Workflows
+•	Prompt Engineering
+•	LangChain Integration
+________________________________________
+Module 16
+LangFlow Integrations
+•	SQL, CSV, NoSQL
+•	REST APIs
+•	Vector Databases
+•	OpenAI & Hugging Face
+•	Chatbot Automation
+________________________________________
+Module 17
+n8n Workflow Automation
+•	Workflows and Nodes
+•	APIs and Webhooks
+•	Error Handling
+•	AI Agent Chatbots
+•	WhatsApp & Telegram Integration
+•	Automated RAG Chatbots
+•	Blog Automation
+•	Transcription & Summarization
+________________________________________
+Module 18
+AutoGen
+•	Agent Goals and Environments
+•	Agent Communication
+•	Feedback Loops
+•	Agent Learning
+•	Multi-Agent Collaboration
+•	Deployment and Monitoring
+________________________________________
+Module 19
+Model Context Protocol (MCP)
+•	MCP Architecture
+•	MCP Server Types
+•	Python SDK
+•	MCP with Anthropic
+•	Tools, Resources, Prompts
+________________________________________
+Module 20
+Deployment & End-to-End Projects
+•	GitHub Actions
+•	Docker
+•	AWS S3
+•	AWS ECR
+•	AWS EC2
+•	AWS Bedrock
+•	BentoML
+•	End-to-End Agentic AI Projects
+________________________________________

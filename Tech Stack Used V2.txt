@@ -1,0 +1,84 @@
+🧰 Tech Stack Used (Agentic AI & GenAI With Cloud 2.0)
+________________________________________
+🔹 Programming & Core
+•	Python
+•	JSON
+•	REST APIs
+________________________________________
+🔹 LLMs & Foundation Models
+•	OpenAI Models
+•	Anthropic (Claude)
+•	Google Gemini
+•	Groq API
+•	Hugging Face Models
+•	Ollama (Local LLMs)
+________________________________________
+🔹 Agentic AI & Multi-Agent Frameworks
+•	LangChain
+•	LangChain Expression Language (LCEL)
+•	LangGraph
+•	CrewAI
+•	Agno
+•	AutoGen
+•	LangFlow
+•	Model Context Protocol (MCP)
+________________________________________
+🔹 Retrieval-Augmented Generation (RAG)
+•	RAG
+•	Adaptive RAG
+•	Agentic RAG
+•	C-RAG
+•	Self-RAG
+________________________________________
+🔹 Embeddings & Vector Databases
+•	OpenAI Embeddings
+•	Hugging Face Embeddings
+•	FAISS
+•	ChromaDB
+•	Vector Databases
+________________________________________
+🔹 Workflow Automation & Orchestration
+•	LangFlow (Low-Code Pipelines)
+•	n8n (Workflow Automation)
+•	Event-Driven Workflows
+________________________________________
+🔹 Backend, APIs & Serving
+•	FastAPI
+•	LangServe
+•	BentoML
+•	Streamlit
+•	Gradio
+________________________________________
+🔹 Observability, Monitoring & Evaluation
+•	LangSmith
+•	Langfuse
+•	Opik
+•	ClearML
+•	Logfire (Pydantic Monitoring)
+________________________________________
+🔹 CI/CD & DevOps
+•	GitHub Actions
+•	Docker
+•	Containerization
+________________________________________
+☁️ Cloud Platforms & Services
+🔸 AWS
+•	AWS S3
+•	AWS ECR
+•	AWS EC2
+•	AWS Bedrock
+________________________________________
+🧩 Databases & Integrations
+•	SQL Databases
+•	NoSQL Databases
+•	CSV / File-based Data
+•	External APIs
+________________________________________
+🔁 Automation & Messaging
+•	WhatsApp Bots
+•	Telegram Bots
+•	Calendar Integrations
+________________________________________
+🎯 One-Line Tech Stack 
+Python, LangChain, LangGraph, CrewAI, Agno, AutoGen, LCEL, MCP, RAG, FAISS, ChromaDB, LangFlow, n8n, FastAPI, Docker, GitHub Actions, AWS Bedrock, BentoML, LangSmith, ClearML
+
