@@ -1,4 +1,4 @@
-# 🧠 Agentic AI & Generative AI with Cloud (AWS, GCP, AZURE )
+# 🧠 Agentic AI & GeN AI with Cloud (AWS, GCP, AZURE )
 
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Deep%20Dive-blue?style=for-the-badge&logo=ai)](https://github.com/)
 [![Generative AI](https://img.shields.io/badge/GenAI-Advanced-purple?style=for-the-badge&logo=openai)](https://github.com/)
