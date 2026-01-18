@@ -87,6 +87,7 @@
   - [🔹 Phase 5: Emerging Frameworks & Automation](#-phase-5-emerging-frameworks--automation)
   - [🔹 Phase 6: Cloud & Production](#-phase-6-cloud--production)
 - [🎯 Key Objective](#-key-objective)
+- [📂 Course Files & Resources](#-course-files--resources)
 - [⚙️ Getting Started](#️-getting-started)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
@@ -190,6 +191,20 @@ By the completion of this bootcamp, you will be able to:
 3.  **Implement** state-of-the-art RAG techniques to reduce hallucinations and improve accuracy.
 4.  **Automate** business processes using intelligent agents and workflow tools like n8n.
 5.  **Monitor** and optimize AI performance using industry-standard observability tools.
+
+---
+
+## 📂 Course Files & Resources
+
+Access the detailed curriculum summaries, tech stack breakdowns, and full PDF guides directly below.
+
+### 📄 Text Summaries
+*   **Version 1:** [Modules Summary](Modules%20Summary%20V1.txt) • [Tech Stack](Tech%20Stack%20Used%20V1.txt)
+*   **Version 2:** [Modules Summary](Modules%20Summary%20V2.txt) • [Tech Stack](Tech%20Stack%20Used%20V2.txt)
+*   **Combined:** [Overview Summary](Combined%20Overview%20Modules%20Summary.txt) • [Full Tech Stack](Combined%20Tech%20Stack%20%28Agentic%20AI%20%26%20GenAI%29.txt)
+
+### 📕 PDF Guides
+*   **Course Textbooks:** [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) • [V2 PDF Guide](Agentic%20AI%20&%20Gen%20AI%20with%20Cloud_V2.pdf)
 
 ---
 
